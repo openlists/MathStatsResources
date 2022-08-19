@@ -2,7 +2,7 @@
 
 This is a collection of open courses and learning resources for topics in mathematics and statistics.
 
-In terms of scope, this collection includes topics across mathematics and statistics, up to and including topics in machine learning and data analysis. However, it does not cover deep learning, for which there are other available resource lists. 
+In terms of scope, this collection includes topics across mathematics and statistics, up to and including topics in machine learning and data analysis. However, it does not cover deep learning, for which there are other available resource lists.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ In terms of scope, this collection includes topics across mathematics and statis
 
 ## General Resources
 
-The following are general (introductory) resources for learning math & statistics. 
+The following are general (introductory) resources for learning math & statistics.
 
 ### Explainers
 
@@ -33,7 +33,7 @@ The following resources are primarily focused on having text and animation based
 
 #### Seeing Theory
 
-'Seeing Theory' us a visual introduction to probability and statistics.
+'Seeing Theory' is a visual introduction to probability and statistics.
 
 [Homepage](https://seeing-theory.brown.edu/)
 
@@ -43,14 +43,14 @@ The following resources are primarily focused on having video-based resources.
 
 #### Khan Academy
 
-'Khan academy' is an educational organization that creates online resources for many topics, including math and statistics. 
+'Khan academy' is an educational organization that creates online resources for many topics, including math and statistics.
 
-[Homepage](https://www.khanacademy.org/) - 
+[Homepage](https://www.khanacademy.org/) -
 [Videos](https://www.youtube.com/c/khanacademy)
 
 #### Eigensteve Videos
 
-Steve Brunton, on the `Eigensteve` youtube channel makes videos explaining topics across math, statistics, and physics. 
+Steve Brunton, on the `Eigensteve` youtube channel makes videos explaining topics across math, statistics, and physics.
 
 [Videos](https://www.youtube.com/c/Eigensteve)
 
@@ -65,13 +65,13 @@ The following are openly available courses and online textbooks on mathematics.
 #### MIT OCW - Introductory Linear Algebra
 
 The 'Introductory Linear Algebra' class, by Gilbert Strang, is freely available through MIT's OpenCourseWare.
-The courses include lecture videos, selected readings from Strang's books, and problem sets.
+The materials include lecture videos, selected readings from Strang's books, and problem sets.
 
-[Homepage](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) 
+[Homepage](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 
 #### MIT OCW - Matrix Methods in Data Analysis, Signal Processing, and Machine Learning
 
-This is a newer course on Linear Alebra's applications in data analysis and machine learning, also available from MIT's OpenCourseWare.
+This is a newer course on Linear Algebra's applications in data analysis and machine learning, also available from MIT's OpenCourseWare.
 
 - [Homepage](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
@@ -81,15 +81,14 @@ The following resources introduce mathematical topics and concepts using code-ba
 
 #### A Programmer's Introduction to Mathematics
 
-This openly available book and exercises introduces core topics in mathematics, organized for people who already have experience with programming.
-It includes code examples, in Python.
+This openly available book and exercises introduces core topics in mathematics, organized for people who already have experience with programming. It includes code examples, in Python.
 
-[Homepage](https://pimbook.org/) - 
+[Homepage](https://pimbook.org/) -
 [Github](https://github.com/pim-book/programmers-introduction-to-mathematics)
 
 #### Scipy Lecture Notes
 
-The scipy lecture notes offer tutorials on the scientific Python ecosystem
+The scipy lecture notes offer tutorials on the scientific Python ecosystem.
 
 [Homepage](https://scipy-lectures.org/)
 
@@ -97,7 +96,7 @@ The scipy lecture notes offer tutorials on the scientific Python ecosystem
 
 This resource, including an online textbook, PDF, and examples in Python, covers numerical methods for differential equations with Python.
 
-[Homepage](https://john-s-butler-dit.github.io/NumericalAnalysisBook/) - 
+[Homepage](https://john-s-butler-dit.github.io/NumericalAnalysisBook/) -
 [Github](https://github.com/john-s-butler-dit/Numerical-Analysis-Python)
 [Textbook](https://johnsbutler.netlify.app/files/Teaching/Numerical_Analysis_for_Differential_Equations.pdf)
 
@@ -105,12 +104,12 @@ This resource, including an online textbook, PDF, and examples in Python, covers
 
 This resource covers doing matrix computations accurately and efficiently in Python.
 
-[Homepage](https://www.fast.ai/2017/07/17/num-lin-alg/) - 
+[Homepage](https://www.fast.ai/2017/07/17/num-lin-alg/) -
 [Github](https://github.com/fastai/numerical-linear-algebra)
 
 ## Statistics
 
-This section covers statistics. 
+This section covers statistics.
 
 ### Courses & Textbooks
 
@@ -118,36 +117,35 @@ The following are openly available courses and online textbooks on statistics.
 
 #### Statistics 110: Probability
 
-'Statistics 110: Probability' is a class by Joe Blitzstein, who is professor in the department of statistics at Harvard University.  
-He has made his textbook, course syllabus, practice problems (with solutions!), and openly available. 
+'Statistics 110: Probability' is a class by Joe Blitzstein, who is a professor in the department of statistics at Harvard University.
+He has made his textbook, course syllabus, practice problems (with solutions!), and openly available.
 
-[Homepage](https://projects.iq.harvard.edu/stat110) - 
-[Textbook](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view) - 
+[Homepage](https://projects.iq.harvard.edu/stat110) -
+[Textbook](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view) -
 [Videos](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 
 #### Statistical Rethinking
 
-'Statistical Rethinking', by Richard McElreath is a great resource for scientists with moderate background in univariate statistics and inference who want to learn more about statistics and modelling, with a focus on a Bayesian approach to statistical inference. 
+'Statistical Rethinking', by Richard McElreath is a great resource for scientists with moderate background in univariate statistics and inference who want to learn more about statistics and modelling, with a focus on a Bayesian approach to statistical inference.
 
-While the full textbook itself is not free, there's a wealth of free online resources,
-including a full set of lecture videos and slides with problem sets and code examples in R (plus conversions to Python and Julia).
+While the full textbook itself is not free, there's a wealth of free online resources, including a full set of lecture videos and slides with problem sets and code examples in R (plus conversions to Python and Julia).
 
-[Videos](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) - 
+[Videos](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) -
 [GitHub](https://github.com/rmcelreath/stat_rethinking_2022)
 
 #### An Introduction to Statistical Learning
 
 The freely available textbook *An Introduction to Statistical Learning* provides a primer on machine learning methods (and intuition!). It's one of the most popular textbooks for teaching statistics in formal university settings as well, and has well-developed examples in R with publicly available datasets. The more recent second edition (2021) adds modern topics like Deep Learning and Bayesian Additive Regression Trees.
 
-[Homepage](https://www.statlearning.com) - 
-[Online Course](https://www.edx.org/course/statistical-learning) - 
+[Homepage](https://www.statlearning.com) -
+[Online Course](https://www.edx.org/course/statistical-learning) -
 [Textbook](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
 
 #### Frequentism and Bayesianism: A practical introduction
 
-'Frequentism and Bayesianism' is a 5-part series by Jake VanderPlas that outlines and explains the distinctions of frequentist vs bayesian statistics. 
+'Frequentism and Bayesianism' is a 5-part series by Jake VanderPlas that outlines and explains the distinctions of frequentist vs bayesian statistics.
 
-[Homepage](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/) - 
+[Homepage](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/) -
 [Paper](https://arxiv.org/abs/1411.5018)
 
 #### Specific Topics
@@ -155,7 +153,7 @@ The freely available textbook *An Introduction to Statistical Learning* provides
 The following are resources on specific topics within statistics.
 
 The following are resources on key concepts in statistics:
-- An [introduction to Gausssian Processes](http://bridg.land/posts/gaussian-processes-1)
+- An [introduction to Gaussian Processes](http://bridg.land/posts/gaussian-processes-1)
 - A [map of relationships between univariate distributions](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
 
 The following are resources on statistical testing:
@@ -178,7 +176,7 @@ The following are openly available courses and online textbooks on machine learn
 
 #### Mathematics of Machine Learning
 
-'Mathematics of Machine Learning', by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ung, covers the basic necessary mathematical concepts for machine learning. It is available for purchase as well as as a free PDF. 
+'Mathematics of Machine Learning', by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ung, covers the basic necessary mathematical concepts for machine learning. It is available for purchase as well as as a free PDF.
 
 [Homepage](https://mml-book.com)
 
@@ -202,10 +200,10 @@ This set of cheatsheets, by Shervine and Afshine Amidi, provides summary overvie
 
 [Homepage](https://stanford.edu/~shervine/teaching/cs-229/)
 
-#### Distill 
+#### Distill
 
-'Distill' was scientific journal that focused on clear and dynamic explainers in machine learning. 
-The journal is now on indefinite hiatus, but previous articles are still available. 
+'Distill' was scientific journal that focused on clear and dynamic explainers in machine learning.
+The journal is now on indefinite hiatus, but previous articles are still available.
 
 [Homepage](https://distill.pub/)
 
